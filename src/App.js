@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-        <a href="https://google.com">google</a>
+        <a href="https://game.jonahgaskill.com">google</a>
     </div>
   );
 }
